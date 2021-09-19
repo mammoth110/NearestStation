@@ -13,7 +13,7 @@
 
 下記の２つのWEB-APIを利用しています。<br>
 
-| thAPI | th機能 | thLINK |
-| :-- | :-: | --: |
+| API | 機能 | LINK |
+| :-: | :-- | :-- |
 | td | 住所から緯度を算出する | https://www.geocoding.jp/api/ |
 | td | 最寄り駅名を検索する | http://express.heartrails.com/api/xml |
