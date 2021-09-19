@@ -1,4 +1,4 @@
-# NearlestStation
+# NearestStation
 ## 概要
 住所から最寄り駅を検索します。  
 例えば、住所として、”東京タワー”を指定すると、
